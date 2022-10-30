@@ -9,6 +9,7 @@ permalink: /game615-spring2023/assignments/01
 | Header | Title |
 | List | Here's a list! <br>- Item one.<br>- Item two. |
 | [GAME 615 Spring 2023]({% link courses/game615-spring2023/game615-spring2023.md %}) | more info |
+| <a href="https://github.com/mtreanor/csc470-fall2019/tree/master/examples/Basics" class="btn btn-primary" markdown="1">PLAY</a> | more info |
 
 1. DO this
 2. DO that.

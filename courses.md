@@ -6,6 +6,8 @@ permalink: /courses/
 
 [GAME 615 Spring 2023]({% link courses/game615-spring2023/game615-spring2023.md %})
 
+[GAME 615 Spring 2023]({{ site.baseurl }}{% link courses/game615-spring2023/game615-spring2023.md %})
+
 ### Data is contained here! sdfds
 This is where I list courses
 - 1
